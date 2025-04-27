@@ -1,0 +1,13 @@
+import java.util.Scanner;
+class Odd{
+public static void main(String args[]){
+int num;
+Scanner scan = new Scanner("System.in);
+System.out.println("Enter the num to be checked for odd or even");
+num = scan.nextInt();
+if(num%2==0){
+System.out.println("Even");
+}else{
+System.out.println("Odd");
+}
+}
