@@ -1,0 +1,13 @@
+import java.util.Scanner;
+class Sum{
+public static void main(String args[]){
+int a,b,sum;
+Scanner scan = new Scanner(System.in);
+System.out.println("ENter the first number");
+a = scan.nextInt();
+System.out.println("Enter the second num");
+b = scan.nextInt();
+sum = a+b;
+System.out.println("The rrquired sum is"+sum);
+}
+}
