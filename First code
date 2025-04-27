@@ -1,0 +1,6 @@
+class Print{
+public static void main(STring args[]){
+String str = "HEllo World";
+System.out.println(str);
+}
+}
