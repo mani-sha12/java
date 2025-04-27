@@ -1,0 +1,13 @@
+import java.util.Scanner;
+class Facctorial{
+public stati void main(String args[]){
+int num;
+Scanner scan = new Scanner(System.in);
+System.out.println("Enter a number");
+num = scan.nextInt();
+long factorial = 1;
+for(int i = 1; i <= number; i++) factorial *= i{
+System.out.println(factorial);
+}
+}
+}
